@@ -1,4 +1,5 @@
 
 public class Entorno2 {
-private int hola;
+private int dinero;
+private String hola;
 }
